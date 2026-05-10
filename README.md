@@ -8,7 +8,10 @@ This project recreates a clean and elegant Sign In UI inspired by a professional
 # 📱 App Preview
 
 
+![App Screenshot](./assets/images/Welcome.jpg)
 ![App Screenshot](./assets/images/Signin.jpg)
+![App Screenshot](./assets/images/signup.jpg)
+![App Screenshot](./assets/images/forgotpassword.jpg)
 
 
 ---
