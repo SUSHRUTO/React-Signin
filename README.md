@@ -11,7 +11,7 @@ This project recreates a clean and elegant Sign In UI inspired by a professional
 
 ```md
 
-![App Screenshot](Signin.jpg)
+![App Screenshot](./assets/images/Signin.jpg)
 
 ```
 
