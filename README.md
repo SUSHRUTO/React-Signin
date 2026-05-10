@@ -10,10 +10,8 @@ This project recreates a clean and elegant Sign In UI inspired by a professional
 > Add your application screenshot below after running the project.
 
 ```md
-![App Screenshot](./assets/images/Welcome.jpg)
+
 ![App Screenshot](./assets/images/Signin.jpg)
-![App Screenshot](./assets/images/signup.jpg)
-![App Screenshot](./assets/images/forgotpassword.jpg)
 
 ```
 
@@ -61,7 +59,7 @@ react-signin/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-usernam/react-native-signin-screen.git
+git clone https://github.com/SUSHRUTO/React-Signin.git
 ```
 
 ---
@@ -69,7 +67,7 @@ git clone https://github.com/your-usernam/react-native-signin-screen.git
 ## 2. Navigate to Project Directory
 
 ```bash
-cd react-native-signin-screen
+cd React-Signin
 ```
 
 ---
