@@ -7,13 +7,9 @@ This project recreates a clean and elegant Sign In UI inspired by a professional
 
 # 📱 App Preview
 
-> Add your application screenshot below after running the project.
-
-```md
 
 ![App Screenshot](./assets/images/Signin.jpg)
 
-```
 
 ---
 
